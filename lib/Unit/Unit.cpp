@@ -85,6 +85,8 @@ int performAction(int option)
 {
     // Put your code here to run when an action is requested 
 
+    delay(1000);
+
     // Return 0 when ran sucessfully 
     return 0;
 }
